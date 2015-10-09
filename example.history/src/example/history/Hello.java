@@ -8,7 +8,7 @@ public class Hello {
         
         public Hello(){}
         public Hello(String message){}
-    
+        //Method commit
         public void setName(String name){
     	   this.name = name;
         }
